@@ -3,7 +3,7 @@
 decimal obtenida por un sensor, por ejemplo 18.9, la 
 convierta explícitamente a un valor entero y muestre ambos 
 resultados. Indique mediante la salida del programa cuánto 
-valor decimal se pierde durante la conversión.
+valor decimal se pierde durante la conversion.
 */
 #include <stdio.h>
 
